@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "485488435112",
+    "project_id": "flare-app-18697",
+    "storage_bucket": "flare-app-18697.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485488435112:android:edb3d95c9e701a5e09c79d",
+        "android_client_info": {
+          "package_name": "com.example.flare_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485488435112-fe9e9qfegb085270lokinuk3rsrpqtm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flare_app",
+            "certificate_hash": "975c65985c5feef2bc39aef00bf949a21ecef55c"
+          }
+        },
+        {
+          "client_id": "485488435112-gfm0icvau1cjm0a0u9fafsfpfs8nkd74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgsR6ZgerdcZYkkct25e99qNRLSVnd5Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485488435112-gfm0icvau1cjm0a0u9fafsfpfs8nkd74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
